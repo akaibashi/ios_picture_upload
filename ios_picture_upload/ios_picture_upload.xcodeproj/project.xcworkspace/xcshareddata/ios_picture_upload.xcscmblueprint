@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "76B1D2C6253827772F1F3868D8591D65A2191048",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "772832ACD4C4C69BAED5590695579B1DDE62C32E" : 0,
+    "76B1D2C6253827772F1F3868D8591D65A2191048" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "5A9C2252-BC7F-4F92-9DCC-BB39FE207857",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "772832ACD4C4C69BAED5590695579B1DDE62C32E" : "",
+    "76B1D2C6253827772F1F3868D8591D65A2191048" : "ios_picture_upload\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "ios_picture_upload",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "ios_picture_upload\/ios_picture_upload.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/akaibashi\/ios_picture_upload",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "76B1D2C6253827772F1F3868D8591D65A2191048"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/akaibashi\/PriceRate.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "772832ACD4C4C69BAED5590695579B1DDE62C32E"
+    }
+  ]
+}

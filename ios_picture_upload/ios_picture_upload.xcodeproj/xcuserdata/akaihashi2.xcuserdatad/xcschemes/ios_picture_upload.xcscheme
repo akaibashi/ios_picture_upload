@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "02C9E3E81D65F28400C21CA6"
+               BlueprintIdentifier = "02C1FDD91D65F4890097347D"
                BuildableName = "ios_picture_upload.app"
                BlueprintName = "ios_picture_upload"
                ReferencedContainer = "container:ios_picture_upload.xcodeproj">
@@ -32,7 +32,7 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "02C9E3FF1D65F28400C21CA6"
+               BlueprintIdentifier = "02C1FDF01D65F4890097347D"
                BuildableName = "ios_picture_uploadTests.xctest"
                BlueprintName = "ios_picture_uploadTests"
                ReferencedContainer = "container:ios_picture_upload.xcodeproj">
@@ -42,7 +42,7 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "02C9E40A1D65F28400C21CA6"
+               BlueprintIdentifier = "02C1FDFB1D65F48A0097347D"
                BuildableName = "ios_picture_uploadUITests.xctest"
                BlueprintName = "ios_picture_uploadUITests"
                ReferencedContainer = "container:ios_picture_upload.xcodeproj">
@@ -52,7 +52,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "02C9E3E81D65F28400C21CA6"
+            BlueprintIdentifier = "02C1FDD91D65F4890097347D"
             BuildableName = "ios_picture_upload.app"
             BlueprintName = "ios_picture_upload"
             ReferencedContainer = "container:ios_picture_upload.xcodeproj">
@@ -75,7 +75,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "02C9E3E81D65F28400C21CA6"
+            BlueprintIdentifier = "02C1FDD91D65F4890097347D"
             BuildableName = "ios_picture_upload.app"
             BlueprintName = "ios_picture_upload"
             ReferencedContainer = "container:ios_picture_upload.xcodeproj">
@@ -94,7 +94,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "02C9E3E81D65F28400C21CA6"
+            BlueprintIdentifier = "02C1FDD91D65F4890097347D"
             BuildableName = "ios_picture_upload.app"
             BlueprintName = "ios_picture_upload"
             ReferencedContainer = "container:ios_picture_upload.xcodeproj">
